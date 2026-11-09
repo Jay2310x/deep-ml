@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T06:36:53.621Z",
+  "generated_at": "2026-11-09T06:36:55.407Z",
   "items": {
     "problem:292": {
       "kind": "problem",
@@ -117,6 +117,19 @@
       "last_pushed_at": "2026-02-17T15:36:17.091Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:186": {
+      "kind": "problem",
+      "id": "186",
+      "title": "Gaussian Process for Regression",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/186",
+      "path": "problems/0186-gaussian-process-for-regression",
+      "first_solved_at": "2026-02-18T16:20:29.624Z",
+      "last_pushed_at": "2026-02-18T16:20:29.624Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
