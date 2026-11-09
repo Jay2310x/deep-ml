@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T06:37:20.480Z",
+  "generated_at": "2026-11-09T06:37:22.225Z",
   "items": {
     "problem:292": {
       "kind": "problem",
@@ -373,6 +373,32 @@
       "path": "math/0030-ml-workflow-basics",
       "first_solved_at": "2026-08-26T05:15:30.933Z",
       "last_pushed_at": "2026-08-26T05:15:30.933Z"
+    },
+    "problem:212": {
+      "kind": "problem",
+      "id": "212",
+      "title": "Confidence Interval for Population Mean",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/212",
+      "path": "problems/0212-confidence-interval-for-population-mean",
+      "first_solved_at": "2026-08-29T16:15:47.813Z",
+      "last_pushed_at": "2026-08-29T16:15:47.813Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:81": {
+      "kind": "problem",
+      "id": "81",
+      "title": "Poisson Distribution Probability Calculator",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/81",
+      "path": "problems/0081-poisson-distribution-probability-calculator",
+      "first_solved_at": "2026-08-29T16:46:28.464Z",
+      "last_pushed_at": "2026-08-29T16:46:28.464Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
