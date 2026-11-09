@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**18** solved · 18 problems · 0 labs · 0 math
+**19** solved · 19 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-02-23 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Thanksgiving Feast Predictor: Softmax for Dish Selection](https://www.deep-ml.com/problems/216) | easy | 2026-02-11 | [solution](problems/0216-thanksgiving-feast-predictor-softmax-for-dish-selection) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-02-22 | [solution](problems/0037-calculate-correlation-matrix) |
+| [Classify Critical Points Using Hessian Eigenvalues](https://www.deep-ml.com/problems/311) | medium | 2026-02-27 | [solution](problems/0311-classify-critical-points-using-hessian-eigenvalues) |
 | [Contrastive Loss (InfoNCE / SimCLR-style)](https://www.deep-ml.com/problems/384) | medium | 2026-02-19 | [solution](problems/0384-contrastive-loss-infonce-simclr-style) |
 | [Domain Expert Model Fusion](https://www.deep-ml.com/problems/348) | medium | 2026-02-16 | [solution](problems/0348-domain-expert-model-fusion) |
 | [Gaussian Naive Bayes Classifier](https://www.deep-ml.com/problems/261) | medium | 2026-02-24 | [solution](problems/0261-gaussian-naive-bayes-classifier) |
