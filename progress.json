@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T06:36:50.331Z",
+  "generated_at": "2026-11-09T06:36:51.980Z",
   "items": {
     "problem:292": {
       "kind": "problem",
@@ -89,6 +89,19 @@
       "path": "problems/0265-implement-2d-average-pooling",
       "first_solved_at": "2026-02-15T20:14:28.812Z",
       "last_pushed_at": "2026-02-15T20:14:28.812Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:348": {
+      "kind": "problem",
+      "id": "348",
+      "title": "Domain Expert Model Fusion",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/348",
+      "path": "problems/0348-domain-expert-model-fusion",
+      "first_solved_at": "2026-02-16T18:13:45.954Z",
+      "last_pushed_at": "2026-02-16T18:13:45.954Z",
       "language": "python",
       "lines": 32
     }
