@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**17** solved · 17 problems · 0 labs · 0 math
+**18** solved · 18 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -27,6 +27,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Q-Learning Algorithm for MDPs](https://www.deep-ml.com/problems/133) | medium | 2026-02-09 | [solution](problems/0133-implement-q-learning-algorithm-for-mdps) |
 | [n-Step TD Prediction](https://www.deep-ml.com/problems/273) | medium | 2026-02-21 | [solution](problems/0273-n-step-td-prediction) |
 | [Gaussian Process for Regression](https://www.deep-ml.com/problems/186) | hard | 2026-02-18 | [solution](problems/0186-gaussian-process-for-regression) |
+| [Implement a Dense Block with 2D Convolutions](https://www.deep-ml.com/problems/137) | hard | 2026-02-25 | [solution](problems/0137-implement-a-dense-block-with-2d-convolutions) |
 | [Multi-Head Latent Attention (MLA)](https://www.deep-ml.com/problems/405) | hard | 2026-02-23 | [solution](problems/0405-multi-head-latent-attention-mla) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-02-10 | [solution](problems/0085-positional-encoding-calculator) |
 
