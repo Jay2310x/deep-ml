@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T06:37:23.927Z",
+  "generated_at": "2026-11-09T06:37:25.712Z",
   "items": {
     "problem:292": {
       "kind": "problem",
@@ -451,6 +451,19 @@
       "last_pushed_at": "2026-08-30T09:16:51.072Z",
       "language": "python",
       "lines": 5
+    },
+    "problem:296": {
+      "kind": "problem",
+      "id": "296",
+      "title": "Calculate Statistical Power for Experiment Design",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/296",
+      "path": "problems/0296-calculate-statistical-power-for-experiment-design",
+      "first_solved_at": "2026-09-01T07:25:05.862Z",
+      "last_pushed_at": "2026-09-01T07:25:05.862Z",
+      "language": "python",
+      "lines": 48
     }
   }
 }
