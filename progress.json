@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T06:37:25.712Z",
+  "generated_at": "2026-11-09T06:37:27.244Z",
   "items": {
     "problem:292": {
       "kind": "problem",
@@ -361,7 +361,7 @@
       "url": "https://www.deep-ml.com/math-problems/9",
       "path": "math/0009-matrix-basics",
       "first_solved_at": "2026-08-26T05:13:05.098Z",
-      "last_pushed_at": "2026-08-26T05:13:05.098Z"
+      "last_pushed_at": "2026-11-09T06:37:27.242Z"
     },
     "math:30": {
       "kind": "math",
@@ -372,7 +372,7 @@
       "url": "https://www.deep-ml.com/math-problems/30",
       "path": "math/0030-ml-workflow-basics",
       "first_solved_at": "2026-08-26T05:15:30.933Z",
-      "last_pushed_at": "2026-08-26T05:15:30.933Z"
+      "last_pushed_at": "2026-11-09T06:37:27.242Z"
     },
     "problem:212": {
       "kind": "problem",
