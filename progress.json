@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T06:37:18.880Z",
+  "generated_at": "2026-11-09T06:37:20.480Z",
   "items": {
     "problem:292": {
       "kind": "problem",
@@ -325,6 +325,54 @@
       "last_pushed_at": "2026-08-25T13:39:25.007Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-08-26T04:55:18.970Z",
+      "last_pushed_at": "2026-08-26T04:55:18.970Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-08-26T05:10:00.879Z",
+      "last_pushed_at": "2026-08-26T05:10:00.879Z",
+      "language": "python",
+      "lines": 15
+    },
+    "math:9": {
+      "kind": "math",
+      "id": "9",
+      "title": "Matrix Basics",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/9",
+      "path": "math/0009-matrix-basics",
+      "first_solved_at": "2026-08-26T05:13:05.098Z",
+      "last_pushed_at": "2026-08-26T05:13:05.098Z"
+    },
+    "math:30": {
+      "kind": "math",
+      "id": "30",
+      "title": "ML Workflow Basics",
+      "difficulty": "easy",
+      "category": "Supervised learning setup",
+      "url": "https://www.deep-ml.com/math-problems/30",
+      "path": "math/0030-ml-workflow-basics",
+      "first_solved_at": "2026-08-26T05:15:30.933Z",
+      "last_pushed_at": "2026-08-26T05:15:30.933Z"
     }
   }
 }
