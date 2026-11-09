@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T06:36:48.640Z",
+  "generated_at": "2026-11-09T06:36:50.331Z",
   "items": {
     "problem:292": {
       "kind": "problem",
@@ -78,6 +78,19 @@
       "last_pushed_at": "2026-02-12T15:43:25.983Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:265": {
+      "kind": "problem",
+      "id": "265",
+      "title": "Implement 2D Average Pooling",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/265",
+      "path": "problems/0265-implement-2d-average-pooling",
+      "first_solved_at": "2026-02-15T20:14:28.812Z",
+      "last_pushed_at": "2026-02-15T20:14:28.812Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
