@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T06:37:02.042Z",
+  "generated_at": "2026-11-09T06:37:03.644Z",
   "items": {
     "problem:292": {
       "kind": "problem",
@@ -182,6 +182,32 @@
       "last_pushed_at": "2026-02-22T18:07:39.370Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:405": {
+      "kind": "problem",
+      "id": "405",
+      "title": "Multi-Head Latent Attention (MLA)",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/405",
+      "path": "problems/0405-multi-head-latent-attention-mla",
+      "first_solved_at": "2026-02-23T16:35:08.304Z",
+      "last_pushed_at": "2026-02-23T16:35:08.304Z",
+      "language": "python",
+      "lines": 42
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-02-23T17:12:36.637Z",
+      "last_pushed_at": "2026-02-23T17:12:36.637Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
