@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**19** solved · 19 problems · 0 labs · 0 math
+**20** solved · 20 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Domain Expert Model Fusion](https://www.deep-ml.com/problems/348) | medium | 2026-02-16 | [solution](problems/0348-domain-expert-model-fusion) |
 | [Gaussian Naive Bayes Classifier](https://www.deep-ml.com/problems/261) | medium | 2026-02-24 | [solution](problems/0261-gaussian-naive-bayes-classifier) |
 | [Gridworld Policy Evaluation](https://www.deep-ml.com/problems/142) | medium | 2026-02-12 | [solution](problems/0142-gridworld-policy-evaluation) |
+| [Implement Local Response Normalization (LRN)](https://www.deep-ml.com/problems/189) | medium | 2026-02-28 | [solution](problems/0189-implement-local-response-normalization-lrn) |
 | [Implement Q-Learning Algorithm for MDPs](https://www.deep-ml.com/problems/133) | medium | 2026-02-09 | [solution](problems/0133-implement-q-learning-algorithm-for-mdps) |
 | [n-Step TD Prediction](https://www.deep-ml.com/problems/273) | medium | 2026-02-21 | [solution](problems/0273-n-step-td-prediction) |
 | [Gaussian Process for Regression](https://www.deep-ml.com/problems/186) | hard | 2026-02-18 | [solution](problems/0186-gaussian-process-for-regression) |
