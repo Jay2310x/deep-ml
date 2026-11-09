@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**13** solved · 13 problems · 0 labs · 0 math
+**14** solved · 14 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Gradient Clipping by Value](https://www.deep-ml.com/problems/292) | easy | 2026-02-05 | [solution](problems/0292-implement-gradient-clipping-by-value) |
 | [Incremental Mean for Online Reward Estimation](https://www.deep-ml.com/problems/159) | easy | 2026-02-20 | [solution](problems/0159-incremental-mean-for-online-reward-estimation) |
 | [Thanksgiving Feast Predictor: Softmax for Dish Selection](https://www.deep-ml.com/problems/216) | easy | 2026-02-11 | [solution](problems/0216-thanksgiving-feast-predictor-softmax-for-dish-selection) |
+| [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-02-22 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Contrastive Loss (InfoNCE / SimCLR-style)](https://www.deep-ml.com/problems/384) | medium | 2026-02-19 | [solution](problems/0384-contrastive-loss-infonce-simclr-style) |
 | [Domain Expert Model Fusion](https://www.deep-ml.com/problems/348) | medium | 2026-02-16 | [solution](problems/0348-domain-expert-model-fusion) |
 | [Gridworld Policy Evaluation](https://www.deep-ml.com/problems/142) | medium | 2026-02-12 | [solution](problems/0142-gridworld-policy-evaluation) |
