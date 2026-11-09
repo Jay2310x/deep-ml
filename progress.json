@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T06:36:41.830Z",
+  "generated_at": "2026-11-09T06:36:43.632Z",
   "items": {
     "problem:292": {
       "kind": "problem",
@@ -13,6 +13,32 @@
       "last_pushed_at": "2026-02-05T06:26:07.049Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:133": {
+      "kind": "problem",
+      "id": "133",
+      "title": "Implement Q-Learning Algorithm for MDPs",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/133",
+      "path": "problems/0133-implement-q-learning-algorithm-for-mdps",
+      "first_solved_at": "2026-02-09T18:32:29.252Z",
+      "last_pushed_at": "2026-02-09T18:32:29.252Z",
+      "language": "python",
+      "lines": 33
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-02-09T18:44:51.941Z",
+      "last_pushed_at": "2026-02-09T18:44:51.941Z",
+      "language": "python",
+      "lines": 3
     }
   }
 }
