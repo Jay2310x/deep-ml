@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**40** solved · 38 problems · 0 labs · 2 math
+**41** solved · 39 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -41,6 +41,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Contrastive Loss (InfoNCE / SimCLR-style)](https://www.deep-ml.com/problems/384) | medium | 2026-02-19 | [solution](problems/0384-contrastive-loss-infonce-simclr-style) |
 | [Domain Expert Model Fusion](https://www.deep-ml.com/problems/348) | medium | 2026-02-16 | [solution](problems/0348-domain-expert-model-fusion) |
 | [Gaussian Naive Bayes Classifier](https://www.deep-ml.com/problems/261) | medium | 2026-02-24 | [solution](problems/0261-gaussian-naive-bayes-classifier) |
+| [Gradient of a Weighted Sum of Squares](https://www.deep-ml.com/problems/1223) | medium | 2026-11-10 | [solution](problems/1223-gradient-of-a-weighted-sum-of-squares) |
 | [Gridworld Policy Evaluation](https://www.deep-ml.com/problems/142) | medium | 2026-02-12 | [solution](problems/0142-gridworld-policy-evaluation) |
 | [Implement Local Response Normalization (LRN)](https://www.deep-ml.com/problems/189) | medium | 2026-02-28 | [solution](problems/0189-implement-local-response-normalization-lrn) |
 | [Implement Q-Learning Algorithm for MDPs](https://www.deep-ml.com/problems/133) | medium | 2026-02-09 | [solution](problems/0133-implement-q-learning-algorithm-for-mdps) |
