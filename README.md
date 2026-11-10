@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**36** solved · 34 problems · 0 labs · 2 math
+**37** solved · 35 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-06-23 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Thanksgiving Feast Predictor: Softmax for Dish Selection](https://www.deep-ml.com/problems/216) | easy | 2026-02-11 | [solution](problems/0216-thanksgiving-feast-predictor-softmax-for-dish-selection) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-06-21 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Binary Cross-Entropy from Logits](https://www.deep-ml.com/problems/1229) | medium | 2026-11-10 | [solution](problems/1229-binary-cross-entropy-from-logits) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-08-30 | [solution](problems/0079-binomial-distribution-probability) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-02-22 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-26 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
