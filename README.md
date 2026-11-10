@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**39** solved · 37 problems · 0 labs · 2 math
+**40** solved · 38 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-08-30 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-06-22 | [solution](problems/0083-dot-product-calculator) |
 | [Exponential Weighted Average of Rewards](https://www.deep-ml.com/problems/161) | easy | 2026-02-17 | [solution](problems/0161-exponential-weighted-average-of-rewards) |
+| [Gradient of a Square with Autograd](https://www.deep-ml.com/problems/1222) | easy | 2026-11-10 | [solution](problems/1222-gradient-of-a-square-with-autograd) |
 | [Implement 2D Average Pooling](https://www.deep-ml.com/problems/265) | easy | 2026-02-15 | [solution](problems/0265-implement-2d-average-pooling) |
 | [Implement Gradient Clipping by Value](https://www.deep-ml.com/problems/292) | easy | 2026-02-05 | [solution](problems/0292-implement-gradient-clipping-by-value) |
 | [Incremental Mean for Online Reward Estimation](https://www.deep-ml.com/problems/159) | easy | 2026-02-20 | [solution](problems/0159-incremental-mean-for-online-reward-estimation) |
