@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**41** solved · 39 problems · 0 labs · 2 math
+**42** solved · 40 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -45,6 +45,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gridworld Policy Evaluation](https://www.deep-ml.com/problems/142) | medium | 2026-02-12 | [solution](problems/0142-gridworld-policy-evaluation) |
 | [Implement Local Response Normalization (LRN)](https://www.deep-ml.com/problems/189) | medium | 2026-02-28 | [solution](problems/0189-implement-local-response-normalization-lrn) |
 | [Implement Q-Learning Algorithm for MDPs](https://www.deep-ml.com/problems/133) | medium | 2026-02-09 | [solution](problems/0133-implement-q-learning-algorithm-for-mdps) |
+| [Memory Complexity: Full Space-Time vs. ST-Factorized Attention](https://www.deep-ml.com/problems/725) | medium | 2026-11-11 | [solution](problems/0725-memory-complexity-full-space-time-vs-st-factorized-attention) |
 | [n-Step TD Prediction](https://www.deep-ml.com/problems/273) | medium | 2026-02-21 | [solution](problems/0273-n-step-td-prediction) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-08-30 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Gaussian Process for Regression](https://www.deep-ml.com/problems/186) | hard | 2026-02-18 | [solution](problems/0186-gaussian-process-for-regression) |
